@@ -1,0 +1,6 @@
+{
+  "name": "ViralShorts Studio: Hindi-to-English Viral Clip Extractor",
+  "description": "AI-powered viral clipping studio for Hindi-to-English teaching footage. Extracts high-retention educational shots with killer hooks, 9:16 smart split layouts, grammar takeaways, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
